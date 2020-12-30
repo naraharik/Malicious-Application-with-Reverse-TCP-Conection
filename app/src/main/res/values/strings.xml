@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">narahari</string>
+    <string name="logo_name">Vulnerable app</string>
+    <string name="and_title">Android Exploitation</string>
+    <string name="menu_settings">asdsada</string>
+    <string name="and_desc">Using Webview vulnerability and ReverseShell we will take control of total android filesystem manipulate data (contacts,images,downloads) ,kill process, installing and deleting apps and perform MITM attacks and many more</string>
+    <string name="welcome">Welcome to home page </string>
+</resources>
